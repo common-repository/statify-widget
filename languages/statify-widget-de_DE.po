@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: statify-widget\n"
+"POT-Creation-Date: 2019-07-31 12:49+0200\n"
+"PO-Revision-Date: 2019-07-31 12:50+0200\n"
+"Last-Translator: \n"
+"Language-Team: Finn Dohrn, www.bit01.de\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: Statify_Posts.class.php:30
+msgid "Frontpage"
+msgstr "Startseite"
+
+#: Statify_Posts.class.php:155 Statify_Posts.class.php:173
+msgid "views"
+msgstr "Aufrufe"
+
+#: statify-widget.php:24
+msgid "Shows the most popular content. Based on Statify Plugin."
+msgstr ""
+"Zeigt die beliebtesten Beiträge eines Inhaltstyps auf Basis des Statify "
+"Plugins."
+
+#: statify-widget.php:27
+msgid "Statify Widget"
+msgstr "Statify Widget"
+
+#: statify-widget.php:48
+msgid "%VIEWS% views"
+msgstr "%ANZAHL% Aufrufe"
+
+#: statify-widget.php:60
+msgid "Widget title:"
+msgstr "Widget Titel:"
+
+#: statify-widget.php:65
+msgid "Post type:"
+msgstr "Posttyp:"
+
+#: statify-widget.php:67
+msgid "posts + pages"
+msgstr "Beiträge + Seiten"
+
+#: statify-widget.php:77
+msgid "Post category:"
+msgstr "Beitrags-Kategorie:"
+
+#: statify-widget.php:89
+msgid "Last "
+msgstr "Letzten "
+
+#: statify-widget.php:91
+msgid " days. (If enough stats exists)"
+msgstr " Tage. (wenn ausreichend Daten)"
+
+#: statify-widget.php:92
+msgid "0 days = show all items"
+msgstr "0 Tage = zeige Alles"
+
+#: statify-widget.php:95
+msgid "Amounts:"
+msgstr "Anzahl:"
+
+#: statify-widget.php:100
+msgid "Show view counter?"
+msgstr "Aufrufe anzeigen?"
+
+#: statify-widget.php:103
+msgid "Custom text:"
+msgstr "Benutzerdefinierter Text:"
+
+#: statify-widget.php:106
+msgid "%VIEWS% = amount of views"
+msgstr "%ANZAHL% = Anzahl der Aufrufe"
+
+#: statify-widget.php:153
+msgid "%VIEWS%"
+msgstr "%ANZAHL%"
+
+#: statify-widget.php:178
+msgid ""
+"Please install <a target=\"_blank\" href=\"http://wordpress.org/plugins/"
+"statify/\">Statify</a> plugin first."
+msgstr ""
+"Bitte installiere das <a target=\"_blank\" href=\"http://wordpress.org/"
+"plugins/statify/\">Statify</a> bevor du dieses Plugin aktivierst."
+
+#~ msgid " days"
+#~ msgstr " Tage"
+
+#~ msgid "Bullet points:"
+#~ msgstr "Aufzählungszeichen:"
+
+#~ msgid "Numbers"
+#~ msgstr "Nummerisch"
+
+#~ msgid "Points"
+#~ msgstr "Punkte"
+
+#~ msgid "%AMOUNT% views"
+#~ msgstr "%VIEWS% Aufrufe"
+
+#~ msgid "%AMOUNT%"
+#~ msgstr "%ANZAHL%"
